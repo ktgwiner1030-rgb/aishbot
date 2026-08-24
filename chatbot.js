@@ -155,6 +155,7 @@
       "프롬프트 공식을 알려주세요",
       "클로드 코드 설치 방법",
       "파일 업로드 활용법",
+      "근로계약서는 언제 받아야 하나요?",
     ];
 
     const wrapper = document.createElement("div");
