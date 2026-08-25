@@ -151,11 +151,11 @@
 
   function appendSuggestedButtons() {
     const suggestions = [
-      "ChatGPT가 무엇인가요?",
-      "프롬프트 공식을 알려주세요",
-      "클로드 코드 설치 방법",
-      "파일 업로드 활용법",
-      "근로계약서는 언제 받아야 하나요?",
+      "2026 국민참여 청렴콘텐츠 공모전에는 누가 참여할 수 있나요?",
+      "어떤 부문에 출품할 수 있나요?",
+      "작품 접수 기간은 언제인가요?",
+      "공모전에는 어떻게 응모하나요?",
+      "생성형 AI를 사용해서 작품을 만들어도 되나요?",
     ];
 
     const wrapper = document.createElement("div");
